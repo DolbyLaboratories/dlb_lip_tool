@@ -1,0 +1,32 @@
+<LIP_Config>
+    <DeviceParams>
+        <UUID>0xABCD0000</UUID>
+        <PhysicalAddress>0.0.0.0</PhysicalAddress>
+        <LogicalAddressMap>5</LogicalAddressMap>
+        <DeviceType>tv</DeviceType>
+        <Renderer>video</Renderer>
+    </DeviceParams>
+    
+    <VideoLatencies>
+        <VidLatency VIC="96">100</VidLatency>
+        <VidLatency VIC="96" color_format="DV">130</VidLatency>
+        <VidLatency VIC="96" color_format="HDR_STATIC">120</VidLatency>
+        <VidLatency VIC="96" color_format="HDR_DYNAMIC">110</VidLatency>
+        <VidLatency VIC="97">150</VidLatency>
+    </VideoLatencies>
+    
+    <AudioLatencies>
+        <AudLatency format="PCM">50</AudLatency>
+        <AudLatency format="MAT">50</AudLatency>
+        <AudLatency format="MAT" subtype="0" ext="0">51</AudLatency>
+        <AudLatency format="MAT" subtype="1" ext="31">52</AudLatency>
+        <AudLatency format="MAT" subtype="2" ext="16">53</AudLatency>
+        <AudLatency format="DDP">100</AudLatency>
+        <AudLatency format="DD" subtype="0">110</AudLatency>
+        <AudLatency format="DD" subtype="1">113</AudLatency>
+        <AudLatency format="DD" subtype="2">116</AudLatency>
+        <AudLatency format="DD" subtype="3">119</AudLatency>
+    </AudioLatencies>  
+
+</LIP_Config>
+

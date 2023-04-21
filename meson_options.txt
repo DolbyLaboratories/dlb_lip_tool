@@ -1,0 +1,1 @@
+option('libcec-include-dir', type: 'string', value: '', description: 'Path to libcec include directory(need if libcec is not installed system-wide.')

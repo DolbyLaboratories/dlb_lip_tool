@@ -1,0 +1,31 @@
+# temporary files
+*.tmp
+
+# c stuff
+# libs
+*.a
+*.lib
+# objects
+*.o 
+*.obj
+# prerequisites
+*.d
+
+
+# build stuff
+# *nix
+# VS Studio
+*.lib.recipe
+*.log
+*.tlog
+*.pdb
+*.ipch
+*.ilk
+*.suo
+*.VC.*
+
+# executables
+*.exe
+*.exe.recipe
+dlb_lip_tool_debug
+dlb_lip_tool_release
