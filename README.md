@@ -1,7 +1,7 @@
 # dlb_liptool
 
 * The dlb_liptool is an open-source tool to integrate the dlb_lip and libcec projects.
-* The dlb_libtool can be used to demonstrate the functionality of the Latency Indication Protocol (LIP).
+* The dlb_liptool can be used to demonstrate the functionality of the Latency Indication Protocol (LIP).
 * The dlb_liptool uses the dlb_lip, an open-source implementation of the Latency Indication Protocol.
 * libCEC(R) enables communication with other HDMI devcies using the Consumer Electronics Control (CEC) feature.
 
